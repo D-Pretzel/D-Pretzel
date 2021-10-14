@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @D-Pretzel
+# 👋 Hi, I’m @D-Pretzel
 - 👀 I’m interested in anything techy!
 - 🌱 I’m currently learning computer science at the United States Air Force Academy.
 
